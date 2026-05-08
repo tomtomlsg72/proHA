@@ -1,0 +1,9 @@
+{
+  "name": "mmm-pronoteha",
+  "version": "1.0.0",
+  "description": "MagicMirror module for Pronote data from Home Assistant",
+  "main": "MMM-PronoteHA.js",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
